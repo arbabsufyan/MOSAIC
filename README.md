@@ -12,7 +12,7 @@ The model integrates **hierarchical feature extraction**, **rotation-aware multi
 
   * Large: 512×512
   * Medium: 256→512
-  * Small: 192→512
+  * Small: 128→512
   * All scales form parallel training streams.
 
 * **Rotation-Aware Feature Fusion**
